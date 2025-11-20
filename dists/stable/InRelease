@@ -1,0 +1,42 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: aarch64
+Codename: stable
+Components: main
+Date: Thu, 20 Nov 2025 10:20:00 +0000
+Label: vkrm-termux-repo
+Origin: vkrm-termux-repo
+Suite: stable
+MD5Sum:
+ f39de54eeb72d420d70067056609f779              158 Release
+ 03242468abeb1bc373643c053084f3fe           197598 main/binary-aarch64/Packages
+ d2fa7752c59b1d6ff2cf871e94d0e82d            70098 main/binary-aarch64/Packages.gz
+SHA1:
+ 9ab4281dc0889b5fb78571eaab23df803c10b345              158 Release
+ 9436f0ec7833191ba0406cea8ad184ea29bf25ed           197598 main/binary-aarch64/Packages
+ 5fcd0908cc86343cb600e86bd97bc24e749777a7            70098 main/binary-aarch64/Packages.gz
+SHA256:
+ d3499127c928d4ff7b6b144ac10aa3307aa8ef2c1d34a41af3053d29a8a2c6f0              158 Release
+ 4d184bdfc306f8c6683d7256733b321ba864bedce289a9e0dcfb8097917359db           197598 main/binary-aarch64/Packages
+ c39b4a9c4be0e31986d0ceb7eb51d824b0a9890e075989eed1330e3b3f3311cc            70098 main/binary-aarch64/Packages.gz
+SHA512:
+ 97a9a9528a0e982f5e032867d66c9a59896bba3b5f5fc7aea038ff36730982c815952a2c98ef2bcaafd623a8c4e486dfe5e04169798f4e29d3571b67bf6b2f0c              158 Release
+ fc6a45af08119235d3b23af37ed369a4f80b3ad2dd8b12e350536579133ca5401aa617c4c394cce9ec7531946e93e82a540a26ce980e85be4fa4ceca5d31a8bb           197598 main/binary-aarch64/Packages
+ 7cc74b4c63ab76b0a3bc050a515079e70ebea724588ed806459ebfcb3ed60bacf79c81132e3f0edd4eff45ef0b166daa1a17ac37cb3328022c2ccd2b7a4154c3            70098 main/binary-aarch64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEErVip08j0g3jDvsJDDsT57lLIzoFAmke61AACgkQDDsT57lL
+Izo0Tg//euOTeTd1s1sBKbEw8B+wzUZUjDdwFMNdZrelcKyExYRrBPmHjXspB4vs
+RTJzRIvIBaPqOSHMi8MTOqTBRZzhW241C+cZCFcf7vTbdxG6TR7sQAWT8Hd6mHsQ
+2SEMxkWBaXhsamQrtf4zUysq+XViONnllgQJVwrrm3sYt40sOST91jm74JS6LIcZ
++0pQKKluKz7n7nM+E2zXhcEVdbUCIav8Ps6nW0/xLb9cTIPrucIMsUx5l7qAQRMl
+Gbb1Jx9Pkee3moiTH+3aaBNbzMXr76iPAgi5xlcHq2n08p0VUHTGlTv/dBzA60pl
+q9d84r9SYgair0cYluQn9B9xi50uwVLIx29o6hwCPSYYytDkSQ7B1PAidWkdBJaW
+O5763TlOUqmHnxpCS6mDi7ouRCopJ6FHUXvhrHPsh9a52LZJkdojTIl+bX6E3DgV
+b0ShbmzwNQJXztWtorfXw5TpgCOQzBykz8re1eyg4NadbtAKHCGJtU2EE45vZsME
+qy8b8VXpWXLM/d9EWzitv30uzj4qKW1ImEwvtLExUNajqWSY+Oxav5sJM7QBwiKW
+qJAv9SbbMSlRzmqapt9a+6WeE5Yir/AeD/wnM9wjddXNQNVqtCQfdTmN6gFk6qlM
+0q8WElehoIrdsiAlSGzqJ1USkCYWgMSaUhLFl8T2JQQua4WD9c8=
+=9+yf
+-----END PGP SIGNATURE-----
