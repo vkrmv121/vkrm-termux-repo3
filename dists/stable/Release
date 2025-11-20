@@ -1,23 +1,23 @@
 Architectures: aarch64
 Codename: stable
 Components: main
-Date: Thu, 20 Nov 2025 11:10:20 +0000
+Date: Thu, 20 Nov 2025 11:20:19 +0000
 Label: vkrm-termux-repo
 Origin: vkrm-termux-repo
 Suite: stable
 MD5Sum:
- 09f892993d2df36c03287d674859fe57              158 Release
- 9801dcc67ea3ca7b42013bc96db0dd86           200038 main/binary-aarch64/Packages
- b0fbc09e9186c895307cf35369db554e            70163 main/binary-aarch64/Packages.gz
+ 82af5678a6bff7b73868878080627990              158 Release
+ a96f83c871fb178ecccfb0b3d73d18cf           126075 main/binary-aarch64/Packages
+ 84a72fc0308b7b55c1f12c7e1d90b55b            45444 main/binary-aarch64/Packages.gz
 SHA1:
- d4e3792b9bbe0b71ba6fde075c7d8cd66694d71c              158 Release
- 29a38f5a115582baa0372838e7441faed19f8a30           200038 main/binary-aarch64/Packages
- cc59de58f9ab5f511ff7e780c72486cadf27ef18            70163 main/binary-aarch64/Packages.gz
+ cdf667822dc5580e55e910771a7b0d0e697354e8              158 Release
+ 77ae985e1df47a232790c127a6dacd5d8b779c9a           126075 main/binary-aarch64/Packages
+ 9c554ab52bd5e94a353c9a9c6598333a6d17b7af            45444 main/binary-aarch64/Packages.gz
 SHA256:
- 88132d2d3e8abbcca343f35e8ebe84c6b1db2371e9af6aa51cbd9b1da6013a7e              158 Release
- 915f265ab9eaecc74a86be003623a500b8bdc4f6d40155d35cc09f08034ea2d3           200038 main/binary-aarch64/Packages
- 99f721661de6eec999dd54513e4262a773a49488c941cbbfd34c5ab1f22f127a            70163 main/binary-aarch64/Packages.gz
+ a237c7bc2f4099959fd99892533e69f87c26ca04f50db3ae1b6be66c11de506c              158 Release
+ 34792602e71714a384827acacbb231224e5a10fc51cf34bfd0b0272ad66908ca           126075 main/binary-aarch64/Packages
+ 5be52d32851fc20a771cd83b2b8a42b5195d4d8f3b7c9146ed5769eb21b7c203            45444 main/binary-aarch64/Packages.gz
 SHA512:
- 43f358d05bd1377fc4cab538404064886e669bf78698018cf516efb2cb0fdaaa4d03c83c9ba39ea21016296e5faf755c402bc92f3dc21bfb29c2eab0787c8abb              158 Release
- 08f4a3e9e8f5f964021a9643b4ee071b224d74f3921bf0667a3e375f923606f1a783a583eab65c35a33eaf971477bb0aab04fba765b829fe54b3421d8b542e7c           200038 main/binary-aarch64/Packages
- a9d049095a735b6678c2f69999232739c4316ab8b3ae8513cba58fadf4d15667104e09de93f0de13b2b169d2d0610954c9ef74c6f5b6e29fde44c36afba4c1fb            70163 main/binary-aarch64/Packages.gz
+ b8127b972d9515d889e9bf29564ead38cf7d370a3e562b4cab1073d3b49a9628d54f1f98e1340be07da54254d90539db01c0f60e9e9df68651889013e13d5b9e              158 Release
+ a163aa7eeaa5c8e2619731e1d2ba84a89d785aa7b431e97211b50c07623ad14b246909fc377b84ff7e78720bb308f083ad4e130ceb07487e5c9f44e58343686d           126075 main/binary-aarch64/Packages
+ dad040231906cc1e582f88b1f4b5af2830d3ea028ce5a8562287f855b5e2ddc84fc0ebf51260d45172cdf388b48c0f9c750565e854ab8337f5cd978ffc4e935b            45444 main/binary-aarch64/Packages.gz
